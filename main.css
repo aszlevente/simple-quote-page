@@ -9,8 +9,7 @@ body {
 body {
   width: 100%;
   height: 100vh;
-  background: url('assets/freedom.jpg') no-repeat center;
-  background-size: cover;
+  background-color: darkgoldenrod;
   color: #333;
 }
 
